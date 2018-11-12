@@ -8,8 +8,8 @@
   2. npm install
   3. npm run build
   4. open index.html
-  5. write your code in `src` folder
-  
+  5. write your code in `src` folder.
+  6. after writting your code, you must run `npm run build` again.
 
 # Api
   `DiffDom.shouldRender()` will notify to render the dom.
