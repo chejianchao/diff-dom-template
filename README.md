@@ -1,5 +1,5 @@
 # diff-dom-template
-  **This is a template for vanlina js with diff algorithm to improve render efficiency.** [diff-dom Lib Source Code](https://github.com/chejianchao/diff-dom)  
+  **This is a template for vanilla js with diff algorithm to improve render efficiency.** [diff-dom Lib Source Code](https://github.com/chejianchao/diff-dom)  
   
   ![picture](https://media.giphy.com/media/mRnFokMDKnQocunGkD/giphy.gif)
   
