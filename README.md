@@ -23,4 +23,4 @@
 # Next Step
   1. Support Self-define Component JSX syntax, like `<Component />` and Function Component.
   2. Life Cycle of Class Component. such as `ComponentDidMount`, `ComponentWillUnmount` and etc.
-  
+  3. Integrate WebPack to make development easily, such as save file and rebuild automatically.
